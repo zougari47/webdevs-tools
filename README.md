@@ -16,7 +16,10 @@
 |10|[CoolHue](https://webkul.github.io/coolhue)|Frontend, CSS, Colors, Gradient|60 linear gradients collection.|
 |11|[Coolors](https://coolors.co)|Frontend, CSS, Colors|The super fast color palettes generator!|
 |12|[FlatUIColors](https://flatuicolors.com)|Frontend, CSS, Colors|280 handpicked colors ready for COPY & PASTE.|
-|13|[MeshGradient](https://meshgradient.com)|Frontend, CSS, Colors, Gradient|Create beautiful gradients.|
-|14|[Neumorphism](https://neumorphism.io)|Frontend, CSS, Box-shadow|Generate Soft-UI CSS code.|
-|15|[Shadows.brumm.af](https://shadows.brumm.af)|Frontend, CSS, Box-shadow|Make a smooth shadow, friend.|
-|16|[Webgradients](https://webgradients.com)|Frontend, CSS, Colors, Gradient|WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.|
+|13|[Grid Layoutit](https://grid.layoutit.com)|Frontend, CSS, Grid|CSS Grid generator.|
+|14|[Layout Bradwoods](https://layout.bradwoods.io)|Frontend, CSS, Grid, Flex|CSS Grid/FLEX generator.|
+|15|[Layout Bradwoods](https://layout.bradwoods.io)|Frontend, CSS, Grid, Flex|CSS Grid/FLEX generator.|
+|16|[MeshGradient](https://meshgradient.com)|Frontend, CSS, Colors, Gradient|Create beautiful gradients.|
+|17|[Neumorphism](https://neumorphism.io)|Frontend, CSS, Box-shadow|Generate Soft-UI CSS code.|
+|18|[Shadows.brumm.af](https://shadows.brumm.af)|Frontend, CSS, Box-shadow|Make a smooth shadow, friend.|
+|19|[Webgradients](https://webgradients.com)|Frontend, CSS, Colors, Gradient|WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.|
