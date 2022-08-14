@@ -26,7 +26,7 @@ const write = async () => {
     })
     .map(
       (item, index) =>
-        `\n|${index}|[${item.name}](${item.url})|${item.keywords.join(", ")}|${
+        `\n|${index + 1}|[${item.name}](${item.url})|${item.keywords.join(", ")}|${
           item.description
         }|`
     )
