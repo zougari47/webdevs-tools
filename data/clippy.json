@@ -1,0 +1,6 @@
+{
+  "name": "Clippy",
+  "url": "https://bennettfeely.com/clippy",
+  "keywords": ["Frontend", "CSS", "Clip-path"],
+  "description": "The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source."
+}
