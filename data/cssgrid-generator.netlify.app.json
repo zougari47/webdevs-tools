@@ -1,6 +1,6 @@
 {
-  "name": "Grid Layoutit",
-  "url": "https://grid.layoutit.com",
+  "name": "Grid Grid Generator",
+  "url": "https://cssgrid-generator.netlify.app",
   "keywords": ["Frontend", "CSS", "Grid"],
   "description": "CSS Grid generator."
 }

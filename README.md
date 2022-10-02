@@ -17,7 +17,7 @@
 |12|[ColorHunt](https://colorhunt.co)|Frontend, CSS, Colors|Color Palettes for Designers and Artists.|
 |13|[ColorPalettes](https://colorpalettes.colorion.co)|Frontend, CSS, Colors|30+ Hand curated color palettes. To see the preview just click on the palette.|
 |14|[ColorsMuzLi](https://colors.muz.li)|Frontend, CSS, Colors|Color Palette Generator. Create Beautiful Color Schemes that works.|
-|15|[Convert A Color](https://convertacolor.com)|Frontend, CSS, Colors|Covert Color to different0 formats.|
+|15|[Convert A Color](https://convertacolor.com)|Frontend, CSS, Colors|Convert a color to different formats.|
 |16|[Cool Backgrounds](https://coolbackgrounds.io)|Frontend, CSS, Background|Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites.|
 |17|[Cool Backgrounds](https://mycolor.space)|Frontend, CSS, Colors|Never waste Hours on finding the perfect Color Palette again!|
 |18|[CoolHue](https://webkul.github.io/coolhue)|Frontend, CSS, Colors, Gradient|60 linear gradients collection.|
@@ -30,7 +30,7 @@
 |25|[Flowbite](https://flowbite.com)|Frontend, CSS, Tailwind|Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.|
 |26|[Frontend Toolkit](https://www.fetoolkit.io)|Mixed|Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!|
 |27|[Get Waves](https://getwaves.io)|Frontend, CSS, SVG, Waves|A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!|
-|28|[Grid Layoutit](https://grid.layoutit.com)|Frontend, CSS, Grid|CSS Grid generator.|
+|28|[Grid Grid Generator](https://cssgrid-generator.netlify.app)|Frontend, CSS, Grid|CSS Grid generator.|
 |29|[Grid Layoutit](https://grid.layoutit.com)|Frontend, CSS, Grid|CSS Grid generator.|
 |30|[Layout Bradwoods](https://layout.bradwoods.io)|Frontend, CSS, Grid, Flex|CSS Grid/FLEX generator.|
 |31|[Lottiefiles](https://lottiefiles.com)|GIF, Animation|The world’s largest platform for Lottie animations. Add free animations anywhere (even if you don’t know motion design) or create, collaborate & ship motion easily with LottieFiles’ design & developer tools.|
