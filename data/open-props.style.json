@@ -1,0 +1,6 @@
+{
+  "name": "Open Props",
+  "url": "https://open-props.style",
+  "keywords": ["Frontend", "CSS"],
+  "description": "Open source CSS custom properties to help accelerate adaptive and consistent design. Available from a CDN or NPM, as CSS or Javascript."
+}
