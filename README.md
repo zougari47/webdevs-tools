@@ -12,27 +12,27 @@
 |7|[CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)|Frontend, CSS, Box-shadow|Beautiful CSS box-shadow examples.|
 |8|[CSS Buttons Examples](https://getcssscan.com/css-buttons-examples)|Frontend, CSS, Buttons|🎨 Curated collection of 88 free beautiful CSS buttons, ready-to-use for your next projects. Click to copy.|
 |9|[CSS Gradient](https://cssgradient.io)|Frontend, CSS, Colors, Gradient|CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.|
-|10|[CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator)|Frontend, CSS, Border|CSS triangle generator - A generator for pure CSS triangle.|
-|11|[Charts CSS](https://chartscss.org)|Frontend, CSS, Charts|CSS data visualization framework.|
-|12|[Clippy](https://bennettfeely.com/clippy)|Frontend, CSS, Clip-path|The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.|
-|13|[ColorHub](https://www.colorhub.app)|Frontend, CSS, Colors|Find the perfect color palette for your next project.|
-|14|[ColorHunt](https://colorhunt.co)|Frontend, CSS, Colors|Color Palettes for Designers and Artists.|
-|15|[ColorPalettes](https://colorpalettes.colorion.co)|Frontend, CSS, Colors|30+ Hand curated color palettes. To see the preview just click on the palette.|
-|16|[ColorsMuzLi](https://colors.muz.li)|Frontend, CSS, Colors|Color Palette Generator. Create Beautiful Color Schemes that works.|
-|17|[Convert A Color](https://convertacolor.com)|Frontend, CSS, Colors|Convert a color to different formats.|
-|18|[Cool Backgrounds](https://coolbackgrounds.io)|Frontend, CSS, Background|Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites.|
-|19|[Cool Backgrounds](https://mycolor.space)|Frontend, CSS, Colors|Never waste Hours on finding the perfect Color Palette again!|
-|20|[CoolHue](https://webkul.github.io/coolhue)|Frontend, CSS, Colors, Gradient|60 linear gradients collection.|
-|21|[Coolors](https://coolors.co)|Frontend, CSS, Colors|The super fast color palettes generator!|
-|22|[Cubic Bezier](https://cubic-bezier.com)|Frontend, CSS, Animation|A better tool for cubic-bezier() easing.|
-|23|[Doodad Pattern Generator](https://doodad.dev/pattern-generator)|Frontend, CSS, SVG, Background|Generate seamless, unique, royalty-free patterns to use for free in any project. Export as SVG, JPEG, or PNG.|
-|24|[Fancy Border Radius](https://9elements.github.io/fancy-border-radius)|Frontend, CSS, Border-radius|Generator to build organic shapes with CSS3 border-radius.|
-|25|[Flat UI Colors](https://flatuicolors.com)|Frontend, CSS, Colors|280 handpicked colors ready for COPY & PASTE.|
-|26|[Flowbite](https://flowbite.com)|Frontend, CSS, Tailwind|Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.|
+|10|[CSS Grid Generator](https://cssgrid-generator.netlify.app)|Frontend, CSS, Grid|CSS Grid generator.|
+|11|[CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator)|Frontend, CSS, Border|CSS triangle generator - A generator for pure CSS triangle.|
+|12|[Charts CSS](https://chartscss.org)|Frontend, CSS, Charts|CSS data visualization framework.|
+|13|[Clippy](https://bennettfeely.com/clippy)|Frontend, CSS, Clip-path|The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.|
+|14|[ColorHub](https://www.colorhub.app)|Frontend, CSS, Colors|Find the perfect color palette for your next project.|
+|15|[ColorHunt](https://colorhunt.co)|Frontend, CSS, Colors|Color Palettes for Designers and Artists.|
+|16|[ColorPalettes](https://colorpalettes.colorion.co)|Frontend, CSS, Colors|30+ Hand curated color palettes. To see the preview just click on the palette.|
+|17|[ColorsMuzLi](https://colors.muz.li)|Frontend, CSS, Colors|Color Palette Generator. Create Beautiful Color Schemes that works.|
+|18|[Convert A Color](https://convertacolor.com)|Frontend, CSS, Colors|Convert a color to different formats.|
+|19|[Cool Backgrounds](https://coolbackgrounds.io)|Frontend, CSS, Background|Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites.|
+|20|[Cool Backgrounds](https://mycolor.space)|Frontend, CSS, Colors|Never waste Hours on finding the perfect Color Palette again!|
+|21|[CoolHue](https://webkul.github.io/coolhue)|Frontend, CSS, Colors, Gradient|60 linear gradients collection.|
+|22|[Coolors](https://coolors.co)|Frontend, CSS, Colors|The super fast color palettes generator!|
+|23|[Cubic Bezier](https://cubic-bezier.com)|Frontend, CSS, Animation|A better tool for cubic-bezier() easing.|
+|24|[Doodad Pattern Generator](https://doodad.dev/pattern-generator)|Frontend, CSS, SVG, Background|Generate seamless, unique, royalty-free patterns to use for free in any project. Export as SVG, JPEG, or PNG.|
+|25|[Fancy Border Radius](https://9elements.github.io/fancy-border-radius)|Frontend, CSS, Border-radius|Generator to build organic shapes with CSS3 border-radius.|
+|26|[Flat UI Colors](https://flatuicolors.com)|Frontend, CSS, Colors|280 handpicked colors ready for COPY & PASTE.|
 |27|[Flowbite](https://flowbite.com)|Frontend, CSS, Tailwind|Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.|
-|28|[Frontend Toolkit](https://www.fetoolkit.io)|Mixed|Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!|
-|29|[Get Waves](https://getwaves.io)|Frontend, CSS, SVG, Waves|A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!|
-|30|[Grid Grid Generator](https://cssgrid-generator.netlify.app)|Frontend, CSS, Grid|CSS Grid generator.|
+|28|[Flowbite](https://flowbite.com)|Frontend, CSS, Tailwind|Get started with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.|
+|29|[Frontend Toolkit](https://www.fetoolkit.io)|Mixed|Frontend Toolkit is a customizable dashboard for your recurring Frontend tasks. Base64 encoder/decoder, SVG optimizations, SVG to JSX and many more!|
+|30|[Get Waves](https://getwaves.io)|Frontend, CSS, SVG, Waves|A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!|
 |31|[Grid Layoutit](https://grid.layoutit.com)|Frontend, CSS, Grid|CSS Grid generator.|
 |32|[Headless UI](https://headlessui.com)|Frontend, Tailwind, React, Vue, UI Library|Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.|
 |33|[Layout Bradwoods](https://layout.bradwoods.io)|Frontend, CSS, Grid, Flex|CSS Grid/FLEX generator.|
