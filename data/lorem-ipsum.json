@@ -1,0 +1,6 @@
+{
+    "name": "Lorem Ipsum",
+    "url": "https://loremipsum.io/",
+    "keywords": ["Frontend", "HTML", "CSS"],
+    "description": "Generate Lorem Ipsum text for the website."
+  }
