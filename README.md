@@ -55,3 +55,4 @@
 |50|[Web Gradients](https://webgradients.com)|Frontend, CSS, Colors, Gradient|WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.|
 |51|[Whirl](https://whirl.netlify.app)|Frontend, CSS, Animation|CSS loading animations with minimal effort!|
 |52|[Woah](https://joerezendes.com/projects/Woah.css)|Frontend, CSS, Animation|Woah.css is a CSS animation library created by Joe Rezendes that was made for eccentric developers.|
+|53|[Branition Colors](https://branition.com/colors)|Frontend, CSS, Colors|Hand-curated collection of color palettes best fitted for branding.|
